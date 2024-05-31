@@ -1,4 +1,4 @@
-# Administración de TiendaOnline EC2 - Apache - PHP SQL y RDS
+# Administración de TiendaOnline EC2 con Apache, PHP, MySQL y RDS
 
 ## Verifica la configuración del servidor Apache
 - Asegúrate de configurar adecuadamente los ajustes de seguridad ( permitir el tráfico HTTP, SSH) ademas de los puertos 3036 y 8080.
